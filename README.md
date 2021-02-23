@@ -20,6 +20,7 @@ Examined the data from rat uteroptophic bioassay study to determine if the proce
 Explored how turnout rates differ by various demographic subgroups, including race, gender, etc. 
 [more](https://github.com/zyzoe/Estrogen-Bioassay-and-Voting-in-NC-with-Hierarchy-model)
 
-## Linear Regression & Logistic Regression
+## Linear Regression & Logistic Regression 
+### Investigate the Impact of Job Training on Employment
 Assessed whether receiving job training has a significant effect on annual earnings
 [more](https://github.com/zyzoe/Statistical-Analysis-for-Understanding-Job-Training-and-Wage)
